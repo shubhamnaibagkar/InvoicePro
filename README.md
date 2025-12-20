@@ -123,7 +123,7 @@ This Next.js application can be deployed to any platform that supports Node.js:
 
 ### Live Demo
 
-**[Add your deployment link here]**
+https://invoiceprotest1.netlify.app/
 
 ## Contributing
 
